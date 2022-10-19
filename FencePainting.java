@@ -1,3 +1,5 @@
+// Copyright © Piyush Acharya (@Verisimilitude11) 2022. This is an open-source project with code available to inspect and modify for all.
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
