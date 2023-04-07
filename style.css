@@ -195,7 +195,22 @@ table thead tr{
   border: 1px solid blueviolet;
 }
 .table button:hover{
-  background: blueviolet;
+  background: #8a2be2;
   color: #fff;
+  transition: 0.5rem;
+}
+input[type=checkbox]{
+  accent-color:#8a2be2;
+}
+.btn{
+  padding: 6px 20px;
+  cursor: pointer;
+  background: #8a2be2;
+  color: #fff;
+  border: 1px solid blueviolet;
+}
+.btn:hover{
+  background: transparent;
+  color: blueviolet;
   transition: 0.5rem;
 }
